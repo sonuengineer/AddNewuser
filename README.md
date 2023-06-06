@@ -1,3 +1,7 @@
+# TASK
+The task is to create a user list with a user add button which will open a form and once the form is submitted a new user entry is added. The list will have a edit and delete button which will delete the entry from the DB or edit the entry from the DB. All the validations would be added to the user creation form. You can you whichever DB you want.
+
+
 # AddNewuser
 # User Management Application
 
